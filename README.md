@@ -1,3 +1,3 @@
 # Python_practice
-Python practice \n
+Python practice '\n'
 Tasks created by Sizov. A
